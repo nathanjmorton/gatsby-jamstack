@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+}
+.link {
+  color: #9c7474;
+  flex: 1 1 0;
+}
+.link:hover {
+  color: green;
+}
+.active-list-item {
+  color: orange;
+}
